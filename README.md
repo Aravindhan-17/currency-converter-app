@@ -64,5 +64,3 @@ The ExchangeRate-API used in this application has rate limits for free usage. Pl
 
 Contributions are welcome! If you have suggestions for improvement, please fork the repository and create a pull request.
 
-
-Feel free to customize this README file further based on additional features, deployment specifics, or any specific configurations related to your project using Vite and the Currency Converter application.
